@@ -9,6 +9,8 @@ Python crawler for job listings.
 
 `python crawl.py`
 
+![](http://g.recordit.co/gfAnNKeTjr.gif)
+
 Currently i have added for indeed alone. Please feel free to contribute.
 
-Note: Developed using Python 2.7.14. 
+Note: Developed using Python 2.7.14.
